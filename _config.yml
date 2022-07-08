@@ -17,11 +17,11 @@ featured_posts:
 
 collections:
   news:
-    title: News
+    title: Physics
     default_open: false
     output: true
   posts:
-    title: Essays
+    title: Algos
     default_open: true
     output: true
 
