@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Example Of A News Article
+title: Reaction diffusion model
 tags:
-- text
-- news
+- physics
+- dynamical
 ---
 
 
