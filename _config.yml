@@ -16,7 +16,7 @@ featured_posts:
     title: 'Featured post #3'
 
 collections:
-  news:
+  physics:
     title: Physics
     default_open: false
     output: true
