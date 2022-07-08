@@ -32,10 +32,10 @@ defaults:
       title: Essays
       permalink: /post/:title
   - scope:
-      type: news
+      type: physics
     values:
-      title: News
-      permalink: /news/:title
+      title: Physocs
+      permalink: /physics/:title
 
 plugins:
   - jekyll-sitemap
