@@ -34,7 +34,7 @@ defaults:
   - scope:
       type: physics
     values:
-      title: Physocs
+      title: Physics
       permalink: /physics/:title
 
 plugins:
